@@ -2,7 +2,14 @@
   "name": "cinemaddict",
   "version": "17.0.0",
   "private": true,
-  "description": "Проект «{{projectTitle}}» от HTML Academy",
+  "description": "Проект «Cinemaddict» от HTML Academy",
+  "browserslist": [
+    "last 2 versions",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all",
+    "not < 0.25%"
+  ],
   "scripts": {
     "lint": "eslint src/",
     "build": "webpack --mode production",
