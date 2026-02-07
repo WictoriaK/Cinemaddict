@@ -1,4 +1,4 @@
-import {createElement} from '../render.js';
+import {createElement} from '../../render.js';
 import {createFilmDetailsInfoTemplate} from './film-details-info-template.js';
 import {createFilmDetailsCommentsTemplate} from './film-details-comments-template.js';
 import {createFilmDetailsFormTemplate} from './film-details-form-template.js';
