@@ -1,4 +1,6 @@
-const FILM_COUNT = 5;
+const MAX_COMMENTS_COUNT = 10;
 
-export { FILM_COUNT };
+const EMOTIONS = ['smile', 'sleeping', 'puke', 'angry'];
+
+export { MAX_COMMENTS_COUNT, EMOTIONS };
 
